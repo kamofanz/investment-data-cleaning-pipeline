@@ -5,7 +5,7 @@ Junior Data Analyst Project | Python + Pandas
 **Solution:** Python pipeline that extracts and cleans data automatically.
 
 **Tech:** Python, PyMuPDF, Pandas, Excel
-**Certification Applied:** UJ AI in 4IR (62801630-01-448T) - automation in 4IR
+**Certification Applied:** UJ AI in 4IR - automation in 4IR
 
 **How to run:**
 pip install -r requirements.txt

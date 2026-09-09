@@ -52,15 +52,33 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Before vs After
-Before: 50-page PDF with messy tables → manual copy-paste
-After: output/cleaned_report.xlsx with:
-Sheet 1: Cleaned transactionsSheet 2: Summary by investment type
-What I Learned
-Building ETL pipelines from scratchPDF data extraction and text cleaningUsing pandas for real-world validationGit & GitHub workflowWriting production-ready Python code🔮 Next Steps
-Add CLI args for pathsAdd logging and testsAuto-detect currencyStreamlit dashboard
-Author
-Kamo Fanz - Python Developer | UJ AI in 4IR
+### Before vs After
+
+**Before:** 50-page PDF with messy tables → manual copy-paste
+
+**After:** `output/cleaned_report.xlsx` with:
+
+- Sheet 1: Cleaned transactions
+- Sheet 2: Summary by investment type
+
+### What I Learned
+
+- Building ETL pipelines from scratch
+- PDF data extraction and text cleaning
+- Using pandas for real-world validation
+- Git & GitHub workflow
+- Writing production-ready Python code
+  ### 🔮 Next Steps
+
+- [ ] Add CLI args for paths
+- [ ] Add logging and tests
+- [ ] Auto-detect currency
+- [ ] Streamlit dashboard
+
+###  Author
+
+**Kamo Fanz** - Python Developer | UJ AI in 4IR
+
 Portfolio: https://kamofanz.github.io
 GitHub: https://github.com/kamofanz
 Location: Cape Town, South Africa

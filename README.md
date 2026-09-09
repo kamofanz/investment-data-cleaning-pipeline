@@ -45,7 +45,7 @@ requirements.txt
 
 ### ▶️ How to Run
 
-```bash
+bash
 git clone https://github.com/kamofanz/investment-data-cleaning-pipeline.git
 cd investment-data-cleaning-pipeline
 pip install -r requirements.txt

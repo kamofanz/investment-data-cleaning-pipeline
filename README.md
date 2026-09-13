@@ -54,12 +54,18 @@ python main.py
 
 ### Before vs After
 
-**Before:** 50-page PDF with messy tables → manual copy-paste
+**Before:** ## 📊 Sample Data
 
-**After:** `output/cleaned_report.xlsx` with:
+### Before (Messy Input)
+`data/sample_input_messy.csv` - 6 rows with errors:
+- Wrong date formats, typos in assets, duplicates, comma decimals
 
-- Sheet 1: Cleaned transactions
-- Sheet 2: Summary by investment type
+### After (Cleaned Output)
+`screenshots/after_results.png` - Cleaned to 3 records
+- Fixed dates to YYYY-MM-DD
+- Corrected assets: Naspers, Satrix 40
+- Standardized amounts + added TOTAL: R56,751.25
+- Removed duplicates & blank row
 
 ### What I Learned
 
